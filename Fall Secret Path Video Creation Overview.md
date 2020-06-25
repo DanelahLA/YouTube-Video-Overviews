@@ -1,21 +1,20 @@
-#Fall Secret Path YouTube Video Creation Overview
+# Fall Secret Path YouTube Video Creation Overview
 
-#Timeline / Priorities / Estimates
-<TBD>
+## Timeline / Priorities / Estimates
+
+TBD
 
 
 
-# Copy
+## Copy
 
-## Video Title: 
-<TBD>
+### Video Title: 
 
 LifeAfter Guide | Fall Secret Path SS | Area Operation | English 2020
 
 Game Tag | What/Title | Where/Other | Language Year | Promo Camps??
 
-## YouTube Description: 
-<TBD>
+### YouTube Description:
 
 * Could use this area to Link to other parts of the website or other YouTube videos of related content.
 * Could Present the Text data here? Would want to make sure that doesn't reduce views?
@@ -24,9 +23,9 @@ Game Tag | What/Title | Where/Other | Language Year | Promo Camps??
 * Need to research limitations of the Description section.
 
 
-# Overview
+## Overview
 
-## Data
+### Data
 * Location: Fall Forest
 * Level Requirement: Gather 38
 * Durability Loss: Reduced 90%
@@ -46,12 +45,12 @@ Game Tag | What/Title | Where/Other | Language Year | Promo Camps??
 		* Mechanical Materials Lv. 1
 
 
-## Content
+### Content
 
 Definitions:
 PSS - Primary Serum Suggestions
 
-### Path Section 0 - Intro
+#### Path Section 0 - Intro
 
 * Show location on map
 * Navigate to the Daily UI for Fall Secret Path Area Operation and flash the description / rewards.
@@ -63,7 +62,7 @@ PSS - Primary Serum Suggestions
 * Could have a little section of the video showing you applying all your buffs. etc.
 
 
-### Path Section 1 - Start and Boss #1
+#### Path Section 1 - Start and Boss #1
 PSS - Yellow, Blue
 
 * The Sniper Icon indicates a target is best suited for sniping.
@@ -72,7 +71,7 @@ PSS - Yellow, Blue
 * Murder boss. I'm sure one person could be opening the objective while the boss is being killed, but I've never tried, or attempted to organize that.
 * Would mention that this is a good short window of time for stacking heal/shield serums on the objective, and using any other means to heal up quickly as to not slow down the group.
 
-### Path Section 2 - Run & Gun, Slide 
+#### Path Section 2 - Run & Gun, Slide 
 PSS - Yellow, Blue
 
 * Can kill the zombies as you go through and collect the ammo box (beginner), or can run along the right as a group, throw down a yellow right in front of the objective circle, and slay another unfortunate horde of zombies (or skip all together? and miss combat xp I guess?)
@@ -81,14 +80,14 @@ PSS - Yellow, Blue
 * Apparently its also possible to do a front flip at the end of the slide? Ask BFire how this works, be figured it out, I think you just swipe up at the end or something.
 
 
-### Path Section 3 - Save NPCs, Truck Escort
+#### Path Section 3 - Save NPCs, Truck Escort
 PSS - Red, Blue, Green
 
 * Point out the ammo box next to the NPCs in the protective ring of barricades.
 * Comment about bug locations, seems like usually 3-4 when I run, but not always in the same spots, one spawn left, one spawn right, two spawns in front of the truck.
 * After starting the truck, mention that serums can now be thrown on the truck, and therefor utilized, where in the past they would go through the truck and onto the ground, not as useful.
 
-### Path Section 4 - Boss fight
+#### Path Section 4 - Boss fight
 PSS - Red, Blue, Green
 
 * Spread out and surround the boss from all angles.
@@ -100,7 +99,7 @@ PSS - Red, Blue, Green
 * For beginners you can use the surrounding junk to get away from the boss /avoid charges etc.
 
 
-### Path Section 5 - Outro
+#### Path Section 5 - Outro
 * Something about using the FF Feat points
 	* What you usually buy
 	* The fact that you're typically using yesterdays Feat Points, since todays are sitting in the mailbox, and going to get them and coming back is inefficient.
