@@ -81,6 +81,7 @@ PSS - Primary Serum Suggestions
 #### Path Section 1 - Entering the Forest (Complete for C Rating)
 PSS - Amino Acid (Green) Sedative (Yellow) Hardener (Blue)
 Enemies of note: Life Suckers, Infected and Rebirth (flying monster)
+Screen Info: Start with 1, split to 2 (1 from group of 3, 1 from runner)
 
 * The Sniper Icon indicates a target is best suited for sniping. (?)
 * Clear the 3 Life Suckers as a team. 
@@ -98,6 +99,7 @@ Enemies of note: Life Suckers, Infected and Rebirth (flying monster)
 #### Path Section 2 - Run, Gun & Slide
 PSS - Amino Acid (Green) Sedative (Yellow) Hardener (Blue)
 Enemies of note: Screaming Infected and Parasitic Infected/Abomination
+Screen Info: 1 from team, maybe 4 going down the path?
 
 * Parasitic Infected: Must be meleed off by your teammates. You CAN run and shoot while one is attached to you
 * Option 1: (More Mastery, Takes away from End-Time)
@@ -114,6 +116,7 @@ Enemies of note: Screaming Infected and Parasitic Infected/Abomination
 #### Path Section 3 - The Road to the Cammander (Complete for B Rating)
 PSS - T-Hormone (Red), Amino Acid (Green), Hardener (Blue)
 Enemies of Note: Devourer Beetles and Infected
+Screen Info: 1 from team, if a beetle attacks-add that viewpoint?, if someone falls off truck-add that viewpoint?
 
 * On the landing of the slide, I like to land to the left, so that the building stops my forward movement quicker, I then quickly throw a yellow serum at the convergence point between the two groups, and do more work. -Z
 * You'll drop down into a wave of infected. You can rally with the NPC's inside the barricade circle or eliminate them from where you drop (as my character is short, it's easier for me to do the latter). -D
@@ -127,6 +130,7 @@ Enemies of Note: Devourer Beetles and Infected
 #### Path Section 4 - Red Light, Green Light: Boss Fight (Completion Rating based on Time)
 PSS - T-Hormone (Red), Amino Acid (Green), Hardener (Blue)
 Enemies of Note: The Commander 
+Screen Info: 1 to 4, idk
 
 * Z's Info: 
 	* Spread out and surround the boss from all angles.
